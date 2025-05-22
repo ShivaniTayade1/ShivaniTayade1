@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivaniTayade1 [Shivani Tayade]
-- 👀 I’m interested in Machine Learning, Deep Learning, LLMs, NLP and Data Visualization
+- 👀 I’m interested in Machine Learning, Deep Learning, LLMs, NLP, Data Analytics and Data Visualization
 - 🌱 I’m currently doing masters in Business Analytics from University of California, Davis
 - 💞️ I’m looking to collaborate on Machine learning, Deep learning projects
 - 📫 How to reach me svtayade@ucdavis.edu
